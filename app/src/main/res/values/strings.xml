@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Foodia</string>
+    <plurals name="cart_order_count">
+        <item quantity="one">%1d item</item>
+        <item quantity="other">%1d items</item>
+    </plurals>
+    <string name="cart_order_header">Order (%1s)</string>
+    <string name="detail_placeholder">Taste the magic feel the love in every single bite, Savoring each bite.Flavors that dance on my tongue, every bite a delight every flavor a surprise.Cooked with passion,served with joy,deliciousness that brings us closer.Every bite a story every flavor a memory.Food that warms the heart and fills the soul.Food that speaks to tha soul.Deliciousness that brings us together everyday and everywhere.Savoring the moment,savouring the love.Food that brings us closer,heart to heart.</string>
+    <string name="ingredients_list">Vanilla, Almond Flour, Eggs, Butter, Cream, Sugar</string>
+    <string name="onboard_text_1">Indulge in the exquisite flavors of our culinary masterpiece – a symphony of succulent grilled chicken, nestled on a bed of perfectly seasoned quinoa and adorned with a medley of vibrant, roasted vegetables.</string>
+    <string name="onboard_text_2">The dish is artfully drizzled with a velvety balsamic glaze, creating a harmonious blend of sweet and savory notes that dance on your palate. Each  bite is a journey through a culinary wonderland, where freshness meets finesse</string>
+    <string name="onboard_text_3">Elevate your dining experience with this gastronomic delight that transcends ordinary meals into extraordinary feasts!</string>
+    <string name="onboard_title_1">Find Food You Love</string>
+    <string name="onboard_title_2">Fast Delivery</string>
+    <string name="onboard_title_3">Welcome to Foodia</string>
+</resources>
